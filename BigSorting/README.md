@@ -54,8 +54,6 @@ g++ main.cpp -o BigSorting
 31415926535897932384626433832795
 ```
 
-## Complejidad computacional
-
 ## Enlace del ejercicio
 
 https://www.hackerrank.com/challenges/big-sorting/problem?isFullScreen=true
