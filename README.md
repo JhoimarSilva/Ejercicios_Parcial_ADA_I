@@ -39,3 +39,4 @@ Para cada ejercicio se realizó:
 
 - Big Sorting
 - Super Reduced String
+- Pairs Search
